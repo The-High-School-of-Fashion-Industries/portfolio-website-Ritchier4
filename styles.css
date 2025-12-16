@@ -11,7 +11,7 @@ nav {
 
 }
 
-ul {
+.navUl {
 
     width: 100%;
     Display: flex;
@@ -31,6 +31,12 @@ a {
 a:hover {
 
     color: Gold;
+
+}
+
+.selected {
+
+    color: gold;
 
 }
 
@@ -58,6 +64,9 @@ footer {
 
 main {
 
-    
+    background-color: rgb(255, 215, 106);
+    padding: 20px;
+    margin: 10px;
+    color: black;
 
 }
