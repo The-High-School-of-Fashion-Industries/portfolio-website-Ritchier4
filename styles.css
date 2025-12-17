@@ -1,13 +1,13 @@
 
 nav {
 
-    background-color:Navy;
+    background-color:#000080;
     height: 100px;
 
     Display: flex;
     align-items: center;
 
-    color: Snow;
+    color: #fffafa;
 
 }
 
@@ -30,7 +30,7 @@ a {
 
 a:hover {
 
-    color: Gold;
+    color: #ffd700;
 
 }
 
@@ -64,7 +64,7 @@ footer {
 
 main {
 
-    background-color: rgb(255, 215, 106);
+    background-color: #d4deff;
     padding: 20px;
     margin: 10px;
     color: black;
