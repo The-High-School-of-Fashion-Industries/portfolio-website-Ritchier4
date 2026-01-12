@@ -16,9 +16,10 @@ nav {
     width: 100%;
     Display: flex;
     list-style-type: None;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-direction: row;
     align-items: center;
+    padding: 0px;
 
 }
 
@@ -57,9 +58,17 @@ footer {
 
 .schoolLogo {
 
-    border-style: solid;
-    border-width: 1px;
+    Display: flex;
+    float: right;
 
+}
+
+.goldenclover {
+
+    /* border-style: solid; */
+    border-style: none;
+    /* border-width: 1px; */
+    
 }
 
 main {
@@ -69,4 +78,9 @@ main {
     margin: 10px;
     color: black;
 
+}
+
+.imageOfMyself {
+    Display: flex;
+    justify-content: center;
 }
