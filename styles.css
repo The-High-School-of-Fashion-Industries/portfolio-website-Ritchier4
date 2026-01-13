@@ -84,3 +84,9 @@ main {
     Display: flex;
     justify-content: center;
 }
+
+Main {
+    Display: flex;
+    flex-direction: column;
+    align-items: center;
+}
